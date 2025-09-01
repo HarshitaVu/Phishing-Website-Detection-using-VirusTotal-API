@@ -1,0 +1,12 @@
+Safe URLs:
+url = "http://google.com"
+url = "http://wikipedia.org"
+url = "http://github.com"
+url = "http://cbit.ac.in"
+
+Malicious / Phishing Test URLs (⚠flagged)
+⚠ Don’t open these in your browser — just use them in the script.
+url =http://paypal.com.security-update-login.com
+url =http://secure-update-bankofamerica.com
+url =http://login.verify-paypal-access.com
+url =http://appleid.apple.com-reset-login.com
