@@ -1,6 +1,6 @@
 import requests, time
 
-API_KEY = "1189d819b7de942c6c0e95b4d952a058528ad4bfb47b219066a7e534174ee49f"
+API_KEY = "your_api_key_here"
 url = "http://cbit.ac.in" #http://paypal.com.security-update-login.com
 
 # Step 1: Submit the URL
